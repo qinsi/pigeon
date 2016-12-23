@@ -1,0 +1,10 @@
+This is a service that  sending and transmiting messages.
+And messages will be devided into many class:
+  1. direct send messages
+  2. run a func from a script ,as result to decide to if sending message
+
+
+
+
+For Example:
+  
